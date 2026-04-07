@@ -1,4 +1,4 @@
-# QQ 农场控制台（qq-farm-vt）
+<img width="730" height="717" alt="image" src="https://github.com/user-attachments/assets/b9641d31-cf98-4121-866e-d5f4741b3216" /># QQ 农场控制台（qq-farm-vt）
 
 💻 Windows 小可爱控制台
 🎮 能帮你：
@@ -45,6 +45,11 @@
 🌾 主界面任务 和 👭 好友农场任务
 
 ✨ 想做什么就勾什么，立刻生效～
+
+
+🌸 快看快看～我们的界面是不是敲可爱、敲治愈的呀？ ✨
+<img width="730" height="717" alt="image" src="https://github.com/user-attachments/assets/f64ac9ce-3f6c-4171-b89e-754878edf02c" />
+
 
 
 💬 用着用着遇到问题？
