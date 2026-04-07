@@ -1,4 +1,3 @@
-<img width="730" height="717" alt="image" src="https://github.com/user-attachments/assets/b9641d31-cf98-4121-866e-d5f4741b3216" /># QQ 农场控制台（qq-farm-vt）
 
 💻 Windows 小可爱控制台
 🎮 能帮你：
