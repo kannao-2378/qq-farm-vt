@@ -47,6 +47,7 @@
 
 
 🌸 快看快看～我们的界面是不是敲可爱、敲治愈的呀？ ✨
+
 <img width="730" height="717" alt="image" src="https://github.com/user-attachments/assets/f64ac9ce-3f6c-4171-b89e-754878edf02c" />
 
 
