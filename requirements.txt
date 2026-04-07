@@ -1,0 +1,7 @@
+opencv-python
+PyQt6
+numpy
+mss
+pyautogui
+Pillow
+openpyxl

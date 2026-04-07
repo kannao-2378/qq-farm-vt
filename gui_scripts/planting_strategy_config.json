@@ -1,0 +1,6 @@
+{
+  "strategy": "根据当前等级筛选经验最优种子",
+  "manual_seed": "",
+  "locked_seed": "",
+  "mock_level": 1
+}

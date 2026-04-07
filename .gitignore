@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.spec
+
+# 虚拟环境
+.venv/
+venv/
+.env
+.env.*
+
+# 用户与运行产物（仓库不跟踪）
+user_data/*
+!user_data/.gitkeep
+donation_state.json
+qt_ui_prefs.json
+level_roi_last.png
+
+# 日志与调试输出
+*.log
+logs/
+gui_scripts/logs/
+action_session_logs/
+
+# 运行截图 / 预览（非仓库模板）
+assets/game_preview.png
+logs/**/*.png
+
+# 本地数据库 / 统计
+gui_scripts/*.sqlite3
+gui_scripts/task_click_stats.sqlite3
+
+# IDE 与系统杂项
+.idea/
+.vscode/
+*.swp
+*~
+Thumbs.db
+Desktop.ini

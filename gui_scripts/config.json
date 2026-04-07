@@ -1,0 +1,32 @@
+{
+  "game_region": {
+    "x": 0,
+    "y": 0,
+    "w": 1280,
+    "h": 720
+  },
+  "features": {
+    "main_interface_actions": {
+      "actions": {
+        "收获": false,
+        "浇水": false,
+        "除虫": false,
+        "除草": false
+      }
+    },
+    "steal_friend_actions": {
+      "master_enabled": false,
+      "actions": {
+        "摘取": false,
+        "浇水": false,
+        "除虫": false,
+        "除草": false
+      },
+      "main_patrol_interval_sec": 0.0,
+      "friend_patrol_interval_sec": 0.0,
+      "friend_list_scroll_steps": 0,
+      "main_patrol_threshold": 0.35,
+      "friend_patrol_threshold": 0.35
+    }
+  }
+}
